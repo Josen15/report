@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env python
 #coding:utf-8
-#mn
+
 from csv import reader
 #读取csv文件
 def getCsv(file_name):
