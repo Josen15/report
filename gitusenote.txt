@@ -1,0 +1,9 @@
+连接远程库
+	1.git config --global user.name "用户名"
+	2.git config --global user.email "邮箱"
+	3.git remote add origin git@git.okkuaixiu.com:touchstone/test-KXStaffClient.git
+使用问题：
+	如果push报错可以先pull
+上传远程库就是上传本地库的最新版本
+版本库就是处理本地的库
+和版本库断开连接 git remote remove origin
